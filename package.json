@@ -1,8 +1,17 @@
 {
   "name": "electron-widevine-cdm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Easy import for WidevineCDM Plugin to electron",
   "main": "index.js",
-  "author": "Sammwy",
-  "license": "ISC"
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/sammwyy/electron-widevine-cdm.git"
+  },
+  "keywords":["widevinecdm", "electron", "widevine", "electron widevinecdm"],
+  "author": "Sammwy <sammwy.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+  	"url": "https://github.com/sammwyy/electron-widevine-cdm/issues"
+  },
+  "homepage": "https://github.com/sammwyy/electron-widevine-cdm"
 }
