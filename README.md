@@ -19,5 +19,5 @@ wvcdm.inject(app);
 wvcdm.injec(app, 'version');
 ```
 
-### wvcdm versions
+### WVCDM versions:
 1) 4.10.1503.4 (Release)
