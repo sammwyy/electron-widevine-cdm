@@ -9,7 +9,7 @@ Source: https://en.wikipedia.org/wiki/Widevine
 ### Usage:
 ```javascript
 // Require electron libraries
-const electron = require('electron')
+const electron = require('electron');
 
 // Import app from electron
 const { app, BrowserWindow } = require('electron');
