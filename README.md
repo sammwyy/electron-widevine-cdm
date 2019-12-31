@@ -12,7 +12,7 @@ Source: https://en.wikipedia.org/wiki/Widevine
 const electron = require('electron')
 
 // Import app from electron
-const { app, BrowserWindow } = require('electron')
+const { app, BrowserWindow } = require('electron');
 
 // Import electron-widevine-cdm
 const wvcdm = require('electron-widevine-cdm');
