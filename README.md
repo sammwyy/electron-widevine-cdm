@@ -20,3 +20,5 @@ const wvcdm = require('electron-widevine-cdm');
 // Inject widevine to app
 wvcdm.inject(app);
 ```
+
+###### Coded with ❤️
